@@ -1,5 +1,5 @@
 class script(object):
-    START_TEXT = """ A Simple File Renamer Bot With Permanent Thumbnail support!💯
+    START_TEXT = """ A Simple File Renamer Bot With Permanent Thumbnail support! by @Pab_Bots💯
 
 <b>Send me any Telegram file and choose appropriate option! </b>"""
 
@@ -7,7 +7,7 @@ class script(object):
     UPGRADE_TEXT = "CONTACT @prgofficial"
     DOWNLOAD_START = "Give Me Some Time..."
     UPLOAD_START = "Starting to upload..."
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me > ©  @prgofficial **"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me > © @Pab_Bots **"
     SAVED_THUMB = "Thumbnail Saved ✅ This Is Permanent"
     DEL_THUMB = "Thumbnail cleared succesfully!"
     NO_THUMB = "No thumbnails found!"
